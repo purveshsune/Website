@@ -2,4 +2,6 @@
 
 Link to my current website - purveshsune.epizy.com
 
-Made using HTML, CSS & Bootstrap
+PNG images from - www.hiclipart.com
+
+Other images - undraw.co
