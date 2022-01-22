@@ -1,6 +1,6 @@
 # My-Website
 
-Link to my current website - www.purveshsune.epizy.com
+Link to my current website - https://purveshsune.github.io/Website/
 
 PNG images from - www.hiclipart.com
 
